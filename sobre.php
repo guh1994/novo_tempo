@@ -15,7 +15,7 @@
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
-	<title>About</title>
+	<title>Sobre</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700|Roboto:400,500" rel="stylesheet">
 	<!--
@@ -40,8 +40,8 @@
 		<div class="container">
 			<div class="row justify-content-between align-items-center text-center banner-content">
 				<div class="col-lg-12">
-					<h1 class="text-white">About Us</h1>
-					<p>Days so us evening for herb bearing lesser man female night</p>
+					<h1 class="text-white">Sobre nos</h1>
+					<p>A credibilidade e o conhecimento técnico da Novo Tempo Engenharia são garantias comprovadas pelos próprios clientes e parceiros !</p>
 				</div>
 			</div>
 		</div>
@@ -111,7 +111,7 @@
 	<!-- End About Area -->
 
 	<!-- Start testimonial Area -->
-	<section class="testimonial-area relative section-gap-top bg-white" id="testimonial">
+	<!-- <section class="testimonial-area relative section-gap-top bg-white" id="testimonial">
 		<div class="container">
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-12">
@@ -196,7 +196,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!-- End testimonial Area -->
 
 	<!-- Start brands Area -->

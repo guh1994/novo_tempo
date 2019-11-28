@@ -52,9 +52,9 @@
 		</div>
 		<div class="head-bottom-meta">
 			<div class="d-flex meta-left no-padding">
-				<a href="#"><span class="fa fa-facebook-f"></span></a>
+				<a href="https://www.facebook.com/novotempoeng" target="_blank"><span class="fa fa-facebook-f"></span></a>
 				<a href="#"><span class="fa fa-twitter"></span></a>
-				<a href="#"><span class="fa fa-instagram"></span></a>
+				<a href="https://www.instagram.com/novotempoengenhariaoficial/" target="_blank"><span class="fa fa-instagram"></span></a>
 			</div>
 		</div>
 	</section>
@@ -220,11 +220,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="call-wrap mx-auto">
-					<h1>View Our Project </h1>
-					<a id="play-home-video" class="video-play-button" href="https://www.youtube.com/watch?v=_C5vCGB8Xx0">
-						<span></span>
-					</a>
-					<p>05:35</p>
+					<h1>Nossos clientes </h1>
+					<!-- <a id="play-home-video" class="video-play-button" href="https://www.youtube.com/watch?v=_C5vCGB8Xx0">
+						<span></span> -->
+					<!-- </a> -->
+					<!-- <p>05:35</p> -->
 				</div>
 			</div>
 		</div>
@@ -232,7 +232,7 @@
 	<!-- End callto Area -->
 
 	<!-- Start testimonial Area -->
-	<section class="testimonial-area relative section-gap" id="testimonial">
+	<!-- <section class="testimonial-area relative section-gap" id="testimonial">
 		<div class="container">
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-12">
@@ -317,7 +317,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!-- End testimonial Area -->
 
 	<!-- Start brands Area -->

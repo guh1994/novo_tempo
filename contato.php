@@ -52,7 +52,7 @@
     <!--================Contact Area =================-->
     <section class="contact_area section-gap">
       <div class="container">
-        <div
+      <!--   <div
           id="mapBox"
           class="mapBox"
           data-lat="-16.7345641"
@@ -61,24 +61,28 @@
           data-info="Rua Raul Corrêa, 370 - Funcionário - Montes Claros - MG, 39401-029 "
           data-mlat="-16.7345641"
           data-mlon="--43.8830901"
-        ></div>
+        ></div> -->
+        <div class="mapBox" >
+          <iframe class="mapBox col-lg-12" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.8277918787303!2d-43.87959358536068!3d-16.735442151260077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xab5342aee4a261%3A0xd236fb03ff09bd04!2sR.%20Raul%20Corr%C3%AAa%2C%20370%20-%20Funcion%C3%A1rios%2C%20Montes%20Claros%20-%20MG%2C%2039401-029!5e0!3m2!1spt-BR!2sbr!4v1574944167486!5m2!1spt-BR!2sbr" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        </div>
         <div class="row">
           <div class="col-lg-3">
             <div class="contact_info">
               <div class="info_item">
                 <i class="fa fa-home"></i>
-                <h6>California, United States</h6>
-                <p>Santa monica bullevard</p>
+                <h6>Rua Raul Corrêa, 370 - Funcionários</h6>
+                <p>Montes Claros - MG  <br> CEP: 39401-029</p>
+               
               </div>
               <div class="info_item">
                 <i class="fa fa-phone"></i>
-                <h6><a href="#">00 (440) 9865 562</a></h6>
-                <p>Mon to Fri 9am to 6 pm</p>
+                <h6>(38)3321-9998</h6>
+                <p>Segunda à Sexta - 8:00 as 18:00</p>
               </div>
               <div class="info_item">
                 <i class="fa fa-envelope"></i>
-                <h6><a href="#">support@colorlib.com</a></h6>
-                <p>Send us your query anytime!</p>
+                <h6>support@colorlib.com</h6>
+                <p>Fale conosco!</p>
               </div>
             </div>
           </div>

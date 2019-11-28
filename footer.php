@@ -38,8 +38,8 @@
 					</ul>
 				</div>
 				<div class="col-lg-4 col-md-6 single-footer-widget">
-					<h4>Newsletter</h4>
-					<p>You can trust us. we only send promo offers,</p>
+					<h4>Novidades</h4>
+					<p>Insira seu email e enviaremos novidades !</p>
 					<div class="form-wrap" id="mc_embed_signup">
 						<form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
 						 method="get" class="form-inline">
@@ -64,10 +64,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				</p>
 				<div class="col-lg-4 col-sm-12 footer-social">
-					<a href="#"><i class="fa fa-facebook-f"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-dribbble"></i></a>
-					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="https://www.facebook.com/novotempoeng" target="_blank"><i class="fa fa-facebook-f"></i></a>
+					<a href="https://www.instagram.com/novotempoengenhariaoficial/" target="_blank"><i class="fa fa-instagram"></i></a>
+
 				</div>
 			</div>
 		</div>
