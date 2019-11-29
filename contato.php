@@ -41,8 +41,8 @@
 		<div class="container">
 			<div class="row justify-content-between align-items-center text-center banner-content">
 				<div class="col-lg-12">
-					<h1 class="text-white">Conatct</h1>
-					<p>Days so us evening for herb bearing lesser man female night</p>
+					<h1 class="text-white">Contato</h1>
+					<p>Entre em contato para e faça um orçamento!</p>
 				</div>
 			</div>
 		</div>
@@ -81,7 +81,7 @@
               </div>
               <div class="info_item">
                 <i class="fa fa-envelope"></i>
-                <h6>support@colorlib.com</h6>
+                <h6>contato@novotempo.eng.br</h6>
                 <p>Fale conosco!</p>
               </div>
             </div>
