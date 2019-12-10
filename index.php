@@ -80,7 +80,7 @@
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="feature-item">
-						<i class="fi flaticon-bathroom"></i>
+						<i class="fa fa-building-o"></i>
 						<h4>Product Research</h4>
 						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
 					</div>
