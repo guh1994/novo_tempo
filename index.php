@@ -102,7 +102,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-center">
 				<div class="col-lg-7 col-md-12 about-left">
-					<img class="img-fluid" src="img/about.png" alt="">
+					<img class="img-fluid" src="img/sobre.png" alt="">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title text-left">
