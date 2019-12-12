@@ -18,6 +18,7 @@
 	<title>Novo Tempo</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700|Roboto:400,500" rel="stylesheet">
+	<link rel="icon" type="image/png" sizes="96x96" href="img/novo_tempo.png">
 	<!--
 			CSS
 			============================================= -->
