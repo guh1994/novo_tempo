@@ -48,49 +48,48 @@
 	</section>
 	<!-- End top-section Area -->
 
-	<!-- Start features Area -->
-	<section class="features-area section-gap-top" id="news">
-		<div class="container">
+	<!-- <section class="features-area section-gap-top" id="news"> -->
+		<!-- <div class="container">
 			<div class="row feature_inner">
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<div class="feature-item">
 						<i class="fi flaticon-compass"></i>
-						<h4>Creative Design</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<h4>Avaliações</h4>
+						<p class="text-justify">A avaliação da propriedade imobiliária  visa a estimar o seu valor e, pode ter entre outros fins, a partilha dos bens de uma herança, etc.</p>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<div class="feature-item">
-						<i class="fi flaticon-desk"></i>
-						<h4>Experienced Style</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<i class="fa fa-building-o"></i>
+						<h4>Inspeção Predial</h4>
+						<p class="text-justify"> A inspeção predial tem como objetivo a avaliação das condições técnicas, de uso, operação, manutenção e funcionalidade de uma edificação.  </p>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<div class="feature-item">
-						<i class="fi flaticon-bathroom"></i>
-						<h4>Product Research</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<i class="fa fa-crop"></i>
+						<h4>Sondagem</h4>
+						<p class="text-justify">A Sondagem de Terreno a percussão com determinação de SPT é um trabalho que exige alto grau de conhecimento técnico e seriedade. </p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="feature-item">
 						<i class="fi flaticon-beach"></i>
 						<h4>Affordable Price</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<p class="text-justify">Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
+		</div> -->
+	<!-- </section> -->
 	<!-- End features Area -->
 
 	<!-- Start About Area -->
-	<section class="about-area section-gap-bottom">
+	<section class="about-area section-gap-top">
 		<div class="container">
 			<div class="row align-items-center justify-content-center">
 				<div class="col-lg-7 col-md-12 about-left">
-					<img class="img-fluid" src="img/about.png" alt="">
+					<img class="img-fluid" src="img/sobre.png" alt="">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title text-left">

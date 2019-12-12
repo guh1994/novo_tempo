@@ -46,7 +46,7 @@
 						Future <br>
 						Architechure
 					</h1>
-					<a href="#" class="primary-btn">View project</a>
+					<!-- <a href="#" class="primary-btn">View project</a> -->
 				</div>
 			</div>
 		</div>
@@ -64,34 +64,34 @@
 	<section class="features-area section-gap-top" id="news">
 		<div class="container">
 			<div class="row feature_inner">
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<div class="feature-item">
 						<i class="fi flaticon-compass"></i>
-						<h4>Creative Design</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<h4>Avaliações</h4>
+						<p class="text-justify">A avaliação da propriedade imobiliária  visa a estimar o seu valor e, pode ter entre outros fins, a partilha dos bens de uma herança, etc.</p>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="feature-item">
-						<i class="fi flaticon-desk"></i>
-						<h4>Experienced Style</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<div class="feature-item">
 						<i class="fa fa-building-o"></i>
-						<h4>Product Research</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<h4>Inspeção Predial</h4>
+						<p class="text-justify"> inspeção predial tem como objetivo a avaliação das condições técnicas, de uso, operação, manutenção e funcionalidade de uma edificação.  </p>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-4 col-md-6">
+					<div class="feature-item">
+						<i class="fa fa-crop"></i>
+						<h4>Sondagem</h4>
+						<p class="text-justify">A Sondagem de Terreno a percussão com determinação de SPT é um trabalho que exige alto grau de conhecimento técnico e seriedade. </p>
+					</div>
+				</div>
+				<!-- <div class="col-lg-3 col-md-6">
 					<div class="feature-item">
 						<i class="fi flaticon-beach"></i>
 						<h4>Affordable Price</h4>
-						<p>Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
+						<p class="text-justify">Hac facilisi ac vitae consec tetu commodo vel magna suspendisse on senectus pharetra magnfauc </p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
@@ -106,16 +106,15 @@
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title text-left">
-						<h4>About Us</h4>
-						<h2>We are world <br /> number one Company</h2>
+						<h4>Sobre nós</h4>
+						<h2>Novo Tempo <br /> Consultoria e projetos em Engenharia</h2>
 					</div>
 					<div>
 						<p>
-							Face male he light it moveth darkness winged eveni seas after life every gathering is forth two kind lesser i
-							from seas him open him From creepeth after, life is above image from replenish behold great
+							A Novo Tempo Engenharia é uma empresa especializada em Consultoria e Projetos para as áreas de Engenharia e Construção.
 						</p>
 					</div>
-					<a href="#" class="primary-btn">Read More</a>
+					<a href="sobre.php" class="primary-btn">Saiba mais</a>
 				</div>
 			</div>
 		</div>
@@ -132,7 +131,7 @@
 						<h2>View Our Project</h2>
 					</div>
 				</div>
-				<div class="col-lg-12">
+				<!-- <div class="col-lg-12">
 					<div class="filters mb-5">
 						<ul>
 							<li class="active" data-filter=".all">All</li>
@@ -142,7 +141,7 @@
 							<li data-filter=".upcoming">Upcoming</li>
 						</ul>
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<div class="filters-content">
 				<div class="row grid">
@@ -152,13 +151,13 @@
 						<div class="single-project">
 							<div class="relative">
 								<div class="thumb">
-									<img class="image img-fluid" src="img/projects/p1.png" alt="">
+									<img class="image img-fluid" src="img/projects/p1 (2).png" alt="">
 								</div>
 								<div class="middle">
 									<h4>Dell Villa, New York</h4>
 									<div class="cat">Architecture, Modern Design</div>
 								</div>
-								<a class="overlay" href="#"></a>
+								
 							</div>
 						</div>
 					</div>
@@ -173,7 +172,7 @@
 									<h4>Eedn Park, Singapore</h4>
 									<div class="cat">Architecture, Modern Design</div>
 								</div>
-								<a class="overlay" href="#"></a>
+							
 							</div>
 						</div>
 					</div>
@@ -188,7 +187,7 @@
 									<h4>Sky Build, Paris</h4>
 									<div class="cat">Architecture, Modern Design</div>
 								</div>
-								<a class="overlay" href="#"></a>
+								
 							</div>
 						</div>
 					</div>
@@ -203,7 +202,7 @@
 									<h4>Dell Villa, New York</h4>
 									<div class="cat">Architecture, Modern Design</div>
 								</div>
-								<a class="overlay" href="#"></a>
+								
 							</div>
 						</div>
 					</div>
