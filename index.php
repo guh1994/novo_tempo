@@ -37,7 +37,7 @@
 	<?php require_once "header.php";?>
 
 	<!-- start banner Area -->
-	<section class="home-banner-area relative" id="home" data-parallax="scroll" data-image-src="img/header-bg.jpg">
+	<section class="home-banner-area relative" id="home" data-parallax="scroll" data-image-src="img/header-bg2.jpg">
 		<div class="overlay-bg overlay"></div>
  		<div class="container">
 			<div class="row fullscreen">
