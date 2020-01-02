@@ -82,8 +82,8 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="feature-item">
 						<i class="fa fa-crop"></i>
-						<h4>Sondagem</h4>
-						<p class="text-justify">A Sondagem de Terreno a percussão com determinação de SPT é um trabalho que exige alto grau de conhecimento técnico e seriedade. </p>
+						<h4>Geotecnia</h4>
+						<p class="text-justify">A geotecnia estuda o comportamento do solo e das rochas, predominantemente referente às alterações do homem. </p>
 					</div>
 				</div>
 				<!-- <div class="col-lg-3 col-md-6">
